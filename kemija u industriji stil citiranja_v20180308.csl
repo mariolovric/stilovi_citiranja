@@ -2,21 +2,22 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>International Journal of Humanoid Robotics</title>
-    <title-short>IJHR</title-short>
-    <id>http://www.zotero.org/styles/international-journal-of-humanoid-robotics</id>
-    <link href="http://www.zotero.org/styles/international-journal-of-humanoid-robotics" rel="self"/>
-    <link href="http://www.zotero.org/styles/advances-in-complex-systems" rel="template"/>
-    <link href="http://www.worldscientific.com/sda/1037/ws-ijhr.pdf" rel="documentation"/>
+    <title>Kemija u industriji</title>
+    <title-short>KJUIAR</title-short>
+    <id>http://www.zotero.org/styles/kemija-u-industriji</id>
+    <link rel="self" href="http://www.zotero.org/styles/kemija-u-industriji"/>
+    <link href="http://silverstripe.fkit.hr/kui/autori/upute-autorima/" rel="documentation"/>
     <author>
-      <name>Sebastian Karcher</name>
+      <name>Mario Lovrić</name>
+      <email>lovric@tugraz.at</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="engineering"/>
-    <issn>0219-8436</issn>
-    <eissn>1793-6942</eissn>
-    <updated>2018-03-08T18:17:37+00:00</updated>
+    <category field="chemistry"/>
+    <issn>0022-9830</issn>
+    <eissn>1334-9090</eissn>
+    <updated>2018-03-08T18:28:38+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <link href="http://silverstripe.fkit.hr/kui/" rel="Journal website"/>
   </info>
   <macro name="author">
     <names variable="author" delimiter=",">
